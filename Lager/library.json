@@ -1,0 +1,34 @@
+{
+    "LWjFGS8ljcM4QrPvZy72O2UBmyHK4GIW": {
+        "uuid": "LWjFGS8ljcM4QrPvZy72O2UBmyHK4GIW",
+        "name": "wafer1",
+        "charge": 1,
+        "typ": 5,
+        "sperr_vermerk": true,
+        "reserviert": "1241231"
+    },
+    "mdg5FFznCktNPTvWTvayBclacGi8GRxq": {
+        "uuid": "mdg5FFznCktNPTvWTvayBclacGi8GRxq",
+        "name": "wafer1",
+        "charge": 1,
+        "typ": 5,
+        "sperr_vermerk": true,
+        "reserviert": "1513412431231241512512"
+    },
+    "zcFiOXJ4PrA5bsNV27OilBjOhBBK6nmi": {
+        "uuid": "zcFiOXJ4PrA5bsNV27OilBjOhBBK6nmi",
+        "name": "wafer1",
+        "charge": 1,
+        "typ": 5,
+        "sperr_vermerk": true,
+        "reserviert": ""
+    },
+    "V3v5IhXnYvkieLzJwT6eSeOkYDTxzQff": {
+        "uuid": "V3v5IhXnYvkieLzJwT6eSeOkYDTxzQff",
+        "name": "wafer1",
+        "charge": 1,
+        "typ": 5,
+        "sperr_vermerk": true,
+        "reserviert": "Lulius"
+    }
+}
